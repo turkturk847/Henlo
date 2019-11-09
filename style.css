@@ -1,4 +1,4 @@
-<style>
+
 @keyframes spinner-line-fade-more {
   0%, 100% {
     opacity: 0; /* minimum opacity */
@@ -53,4 +53,21 @@ h1 {
   font-family: "Impact";
 }
 
-</style>
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+.halloween {
+    height: 64px;
+    width: 765px;
+    margin: 29px;
+    background: url(0.png);
+	background-color:black;
+	float:center;
+}
+
+.halloween-active {
+    background: url(1.png);
+	float:center;
+}
