@@ -11,9 +11,9 @@
       "value": "#ffffff"
     },
     "shape": {
-      "type": "circle",
+      "type": "triangle",
       "stroke": {
-        "width": 0,
+        "width": 40,
         "color": "#000000"
       },
       "polygon": {
