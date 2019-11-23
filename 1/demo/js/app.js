@@ -23,13 +23,13 @@ particlesJS('particles-js',
         }
       },
       "color": {
-        "value": "05FEFE"
+        "value": "FF8500"
       },
       "shape": {
         "type": "triangle",
         "stroke": {
           "width": 0,
-          "color": "05FEFE"
+          "color": "FF8500"
         },
         "polygon": {
           "nb_sides": 5
@@ -122,7 +122,7 @@ particlesJS('particles-js',
     "retina_detect": true,
     "config_demo": {
       "hide_card": false,
-      "background_color": "#b61924",
+      "background_color": "FF8500",
       "background_image": "A.jpg",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",

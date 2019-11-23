@@ -16,7 +16,7 @@ var Stats = function () {
 
 	var fpsDiv = document.createElement( 'div' );
 	fpsDiv.id = 'fps';
-	fpsDiv.style.cssText = 'padding:0 0 3px 3px;text-align:left;background-color:#002';
+	fpsDiv.style.cssText = 'padding:0 0 3px 3px;text-align:left;background-color:#006';
 	container.appendChild( fpsDiv );
 
 	var fpsText = document.createElement( 'div' );
