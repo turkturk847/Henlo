@@ -8,13 +8,13 @@
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#RB8500"
     },
     "shape": {
       "type": "triangle",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#RB8500"
       },
       "polygon": {
         "nb_sides": 5
@@ -42,15 +42,15 @@
         "enable": false,
         "speed": 40,
         "size_min": 0.1,
-        "sync": false
+        "sync": true
       }
     },
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#ffffff",
+      "color": "#RB8500",
       "opacity": 0.4,
-      "width": 1
+      "width": 5
     },
     "move": {
       "enable": true,
@@ -107,7 +107,7 @@
   "retina_detect": true,
   "config_demo": {
     "hide_card": false,
-    "background_color": "#b61924",
+    "background_color": "#FB8500",
     "background_image": "",
     "background_position": "50% 50%",
     "background_repeat": "no-repeat",
